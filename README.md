@@ -1,4 +1,4 @@
-# psi_3571_regressor
+# Estimador de Preço de veículos usados - Projeto da Disciplina PSI-3571
 Repositório para o trabalho de PSI 3571. Nesse repositório vamos centralizar o código do nosso regressor para o trabalho final da disciplina.
 
 ## Getting Started
